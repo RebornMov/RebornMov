@@ -42,7 +42,7 @@ Desenvolvido para missões de navegação inteligente, monitoramento e reconheci
 * **Navegação:** Sistemas GPS, sensores inerciais e algoritmos de planejamento de rota para voo autônomo.
 * **Aplicações:** Competições de robótica aérea, monitoramento ambiental, inspeção de áreas e missões de busca.
 
-### 🚀 Foguete Experimental
+### 🚀 Foguete
 Projeto voltado para o desenvolvimento de tecnologias aeroespaciais e aplicações práticas dos conceitos de física e engenharia.
 * **Estrutura:** Construída com materiais leves e resistentes para maximizar desempenho e estabilidade.
 * **Aerodinâmica:** Projeto otimizado para reduzir arrasto e aumentar a eficiência do voo.
