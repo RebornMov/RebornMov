@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Origin-Moviema%20%2F%20IEMA-blue?style=for-the-badge" alt="Origem IEMA">
   <img src="https://img.shields.io/badge/Focus-Autonomous%20Systems%20%26%20AI-orange?style=for-the-badge" alt="Foco IA">
-  <img src="https://img.shields.io/badge/Location-S%C3%A3o%20Lu%C3%AD-Maranh%C3%A3o%2C%20Brazil-green?style=for-the-badge" alt="Localização">
+  <img src="https://img.shields.io/badge/Location-São_Luís_—_Maranhão-green?style=for-the-badge" alt="Localização">
 </p>
 
 ---
