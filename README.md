@@ -29,7 +29,7 @@ A equipe divide seus esforços no desenvolvimento de tecnologias de ponta, com f
 ## 🚘 Projetos em Destaque
 
 ### 🧠 Carro Autônomo
-O **Jorge** é um dos principais protótipos de desenvolvimento da equipe. Trata-se de um veículo autônomo em escala reduzida projetado para competições de pistas inteligentes.
+O **Carro Autônomo** é um dos principais protótipos de desenvolvimento da equipe. Trata-se de um veículo autônomo em escala reduzida projetado para competições de pistas inteligentes.
 * **Core:** Baseado na plataforma **Raspberry Pi 4**.
 * **Inteligência:** Utiliza Redes Neurais Convolucionais (CNN) para o processamento de imagens da pista em tempo real.
 * **Controle:** Algoritmos de controle (PID) refinados para garantir estabilidade e precisão nas curvas e desvios de obstáculos.
