@@ -28,7 +28,7 @@ A equipe divide seus esforços no desenvolvimento de tecnologias de ponta, com f
 
 ## 🚘 Projetos em Destaque
 
-### 🧠 Projeto Jorge (Carro Autônomo)
+### 🧠 Carro Autônomo
 O **Jorge** é um dos principais protótipos de desenvolvimento da equipe. Trata-se de um veículo autônomo em escala reduzida projetado para competições de pistas inteligentes.
 * **Core:** Baseado na plataforma **Raspberry Pi 4**.
 * **Inteligência:** Utiliza Redes Neurais Convolucionais (CNN) para o processamento de imagens da pista em tempo real.
@@ -51,10 +51,10 @@ Nossos projetos envolvem uma mistura de engenharia de software e hardware:
 
 Quer saber mais sobre o nosso trabalho, propor uma parceria ou colaborar com a equipe? 
 
-- **E-mail:** [seu-email-da-equipe@provedor.com]
-- **Instagram:** [@seu_instagram_da_reborn]
+- **E-mail:** liga.reborn@iemasaoluiscentro.net
+- **Instagram:** @reborn.iemaslz
 
 ---
 <p align="center">
-  <i>Desenvolvido com ☕, código e eletrônica pela equipe REBORN.</i>
+  <i>Desenvolvido com ☕ e código pela equipe REBORN.</i>
 </p>
