@@ -35,6 +35,35 @@ O **Carro Autônomo** é um dos principais protótipos de desenvolvimento da equ
 * **Controle:** Algoritmos de controle (PID) refinados para garantir estabilidade e precisão nas curvas e desvios de obstáculos.
 
 ---
+  ### 🚁 Drone Autônomo
+Desenvolvido para missões de navegação inteligente, monitoramento e reconhecimento de ambientes, integrando hardware e software avançados para operação autônoma.
+* **Plataforma:** Controladora de voo Pixhawk e Raspberry Pi.
+* **Visão Computacional:** Utiliza OpenCV e Inteligência Artificial para identificação de objetos, obstáculos e pontos de interesse.
+* **Navegação:** Sistemas GPS, sensores inerciais e algoritmos de planejamento de rota para voo autônomo.
+* **Aplicações:** Competições de robótica aérea, monitoramento ambiental, inspeção de áreas e missões de busca.
+
+### 🚀 Foguete Experimental
+Projeto voltado para o desenvolvimento de tecnologias aeroespaciais e aplicações práticas dos conceitos de física e engenharia.
+* **Estrutura:** Construída com materiais leves e resistentes para maximizar desempenho e estabilidade.
+* **Aerodinâmica:** Projeto otimizado para reduzir arrasto e aumentar a eficiência do voo.
+* **Recuperação:** Sistema de paraquedas para retorno seguro após o lançamento.
+* **Objetivo:** Participação em competições de foguetes e incentivo à pesquisa científica e tecnológica.
+
+### 💡 Projeto de Inovação
+Busca desenvolver soluções tecnológicas para desafios reais da sociedade, unindo criatividade, engenharia e impacto social.
+* **Desenvolvimento:** Aplicação de metodologias de pesquisa, prototipagem e validação.
+* **Tecnologias:** Internet das Coisas (IoT), Inteligência Artificial, Automação e Sistemas Embarcados.
+* **Impacto:** Soluções voltadas para educação, acessibilidade, sustentabilidade e inclusão.
+* **Objetivo:** Transformar ideias em projetos capazes de gerar benefícios concretos para a comunidade.
+
+### 🤖 Robôs Competitivos
+Desenvolvidos especificamente para modalidades tradicionais e desafios dinâmicos de robótica educacional e de alta performance.
+* **Modalidades:** Sumô, Resgate, Segue Linha e desafios autônomos.
+* **Programação:** Algoritmos otimizados para tomada de decisão rápida e em tempo real.
+* **Sensores:** Sensores ultrassônicos, infravermelhos, encoders e sensores de cor.
+* **Controle:** Estratégias de navegação, detecção de obstáculos e execução autônoma de tarefas.
+
+---
 
 ## 💻 Tech Stack da Equipe
 
